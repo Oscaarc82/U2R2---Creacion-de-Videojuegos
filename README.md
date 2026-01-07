@@ -33,11 +33,11 @@ Para cada lección, se incluye un reporte detallado en PDF y un video demostrati
 
 | Lección | Documentación (PDF) | Demostración (Video) |
 | :--- | :---: | :---: |
-| **01 - Lecciones de la 1 a la 6** | [📄 Ver Reporte](<./PDFs/Tutoriales1-6 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 1 a la 6** | [📄 Ver Reporte](<./PDFs/Tutoriales1-6 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1cxsmklWXvQK9S8Db5dc8uoxnMEv1D9xq/view?usp=sharing) |
 | **01 - Lecciones de la 7 a la 12** | [📄 Ver Reporte](<./PDFs/Tutoriales7-12 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **01 - Lecciones de la 13 a la 18** | [📄 Ver Reporte](<./PDFs/Tutoriales13-18 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **01 - Lecciones de la 19 a la 24** | [📄 Ver Reporte](<./PDFs/Tutoriales19-24 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **01 - Lecciones de la 25 a la 30** | [📄 Ver Reporte](<./PDFs/Tutoriales25-30 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 13 a la 18** | [📄 Ver Reporte](<./PDFs/Tutoriales13-18 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1y8QJmKlMaA3O-JtApmtSTK_FuAWNa9WY/view?usp=drive_link) |
+| **01 - Lecciones de la 19 a la 24** | [📄 Ver Reporte](<./PDFs/Tutoriales19-24 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1ZhqjcDax6JmDEoCz8pB218r8JhfQbvu3/view?usp=drive_link) |
+| **01 - Lecciones de la 25 a la 30** | [📄 Ver Reporte](<./PDFs/Tutoriales25-30 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](https://drive.google.com/file/d/1c-YKq28y1L7wmU7U75hV_XowhEhqKidd/view?usp=drive_link) |
 
 ---
 
