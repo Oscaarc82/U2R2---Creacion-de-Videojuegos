@@ -33,10 +33,11 @@ Para cada lección, se incluye un reporte detallado en PDF y un video demostrati
 
 | Lección | Documentación (PDF) | Demostración (Video) |
 | :--- | :---: | :---: |
-| **01: Movimiento Base** | [📄 Ver Reporte](./PDFs/Leccion01.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **02: Salto y Doble Salto** | [📄 Ver Reporte](./PDFs/Leccion02.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **03: Animaciones y Skins** | [📄 Ver Reporte](./PDFs/Leccion03.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
-| **04: IA de Enemigos (Abeja)** | [📄 Ver Reporte](./PDFs/Leccion04.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 1 a la 6** | [📄 Ver Reporte](<./PDFs/Tutoriales1-6 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 7 a la 12** | [📄 Ver Reporte](<./PDFs/Tutoriales7-12 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 13 a la 18** | [📄 Ver Reporte](<./PDFs/Tutoriales13-18 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 19 a la 24** | [📄 Ver Reporte](<./PDFs/Tutoriales19-24 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **01 - Lecciones de la 25 a la 30** | [📄 Ver Reporte](<./PDFs/Tutoriales25-30 R2 - Oscar Ulises Ramirez Cruz.pdf>) | [🎬 Ver Video](LINK_A_DRIVE) |
 
 ---
 
