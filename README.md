@@ -1,0 +1,50 @@
+# 🎮 Proyecto: Plataformas 2D - Unity 6
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-6.0%2B-black?style=for-the-badge&logo=unity" alt="Unity Version">
+  <img src="https://img.shields.io/badge/C%23-6.0-purple?style=for-the-badge&logo=c-sharp" alt="C# Version">
+  <img src="https://img.shields.io/badge/Status-En%20Desarrollo-green?style=for-the-badge" alt="Status">
+</p>
+
+---
+
+## 🎯 Objetivo del Juego
+Este proyecto consiste en el desarrollo de un videojuego de plataformas 2D enfocado en el aprendizaje de mecánicas fundamentales. El objetivo es guiar al jugador a través de niveles desafiantes utilizando un sistema de selección de personajes, mecánicas de salto fluido y combate contra enemigos inteligentes.
+
+> **Inspiración:** Proyecto desarrollado siguiendo la serie de lecciones de **Luis Canary** en YouTube.
+
+---
+
+## 📚 Temario de Lecciones
+A continuación se describen los temas clave desarrollados a lo largo del curso:
+
+1. **Fundamentos de Movimiento:** Configuración de Rigidbody2D y lógica de movimiento horizontal sin fricción.
+2. **Sistema de Salto:** Implementación de salto, doble salto y mejoras de caída (Better Jump).
+3. **Manejo de Tilemaps:** Creación de niveles usando Tile Palette y optimización de colisiones con Composite Colliders.
+4. **Animaciones Avanzadas:** Uso de Animator Controllers, Overrides y manejo de estados (Run, Jump, Fall).
+5. **IA de Enemigos:** Creación de patrullas inteligentes y sistemas de ataque por Raycast.
+6. **Interfaz y UX:** Creación de menús, selección de personajes (Skin Selector) y persistencia de datos con PlayerPrefs.
+
+---
+
+## 📂 Recursos y Entregables
+
+Para cada lección, se incluye un reporte detallado en PDF y un video demostrativo de la implementación.
+
+| Lección | Documentación (PDF) | Demostración (Video) |
+| :--- | :---: | :---: |
+| **01: Movimiento Base** | [📄 Ver Reporte](./PDFs/Leccion01.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **02: Salto y Doble Salto** | [📄 Ver Reporte](./PDFs/Leccion02.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **03: Animaciones y Skins** | [📄 Ver Reporte](./PDFs/Leccion03.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
+| **04: IA de Enemigos (Abeja)** | [📄 Ver Reporte](./PDFs/Leccion04.pdf) | [🎬 Ver Video](LINK_A_DRIVE) |
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+* **Motor:** Unity 6
+* **Lenguaje:** C# (Web Forms Style Logic)
+* **Gráficos:** Pixel Art 2D
+* **Física:** Rigidbody2D y Platform Effectors
+
+---
+<p align="center"> Desarrollado por **Oscar Ulises Ramirez Cruz** </p>
